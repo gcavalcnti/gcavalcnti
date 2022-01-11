@@ -1,4 +1,4 @@
-## Olá! Meu nome é Gabriel!
+## Olá! Meu nome é Gabriel.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcavalcnti&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcavalcnti&layout=compact&theme=dark)
