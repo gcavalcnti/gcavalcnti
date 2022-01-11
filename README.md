@@ -1,8 +1,10 @@
 ## Olá! Meu nome é Gabriel.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcavalcnti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcavalcnti&layout=compact&theme=dark)
-
+<div align="center">
+  <a href="https://github.com/gcavalcnti">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcavalcnti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcavalcnti&layout=compact&langs_count=7&theme=dark"/>
+      </div>
+    
 <div style="display: inline_block">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
